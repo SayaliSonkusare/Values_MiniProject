@@ -1,0 +1,1 @@
+[('creativity', 13), ('honesty', 12), ('optimism', 11), ('determination', 10), ('patience', 10), ('flexibility', 10), ('simplicity', 9), ('learning', 9), ('curiosity', 9), ('enthusiasm', 9)]
